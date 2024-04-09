@@ -9,10 +9,3 @@ This is a somewhat empty starter repository, meant to be filled with many commit
        \_____/
      ____|  |____
     /    \__/    \
-   /              \
-  /\_/|        |\_/\
- / /  |        |  \ \
-( <   |        |   > )
- \ \  |        |  / /
-  \ \ |________| / /
-   \ \|
